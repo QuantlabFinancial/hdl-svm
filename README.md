@@ -1,0 +1,2 @@
+# hdl-svm
+A library of code called the hardware description language software verification methodology that provides scaffolding for hardware description language simulation test procedures and SW based bus functional models for all sorts of high level languages (C++, Java, Python, etc.). Allows the world of hardware description language to leverage the latest and most effective SW language for their specific application and enterprise code base. Has dependency on hdl-sim-dtl
